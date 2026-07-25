@@ -7,7 +7,7 @@ Computer Science student at the University of Georgia with interests across arti
 
 I use GitHub to document implementation-focused work: automation tooling, applied AI projects, and full-stack systems built during coursework and internships. I currently work as an AI/Automation Intern at Cox Enterprises, where I build RPA and agentic AI solutions used in production. For more details, or to reach out, please refer to my [LinkedIn](https://www.linkedin.com/in/williamahoman).
 
-Check out my personal portfolio [webpage](www.williamhoman.dev)!
+Check out my personal portfolio [webpage](https://www.williamhoman.dev)!
 
 ## Areas of Interest
 
